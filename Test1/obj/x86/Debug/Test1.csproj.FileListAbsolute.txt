@@ -1,0 +1,17 @@
+A:\Academic\Workspaces\C# Battle City\Test1\Test1\Test1\bin\Debug\Test1.exe
+A:\Academic\Workspaces\C# Battle City\Test1\Test1\Test1\bin\Debug\Test1.pdb
+A:\Academic\Workspaces\C# Battle City\Test1\Test1\Test1\obj\x86\Debug\ResolveAssemblyReference.cache
+A:\Academic\Workspaces\C# Battle City\Test1\Test1\Test1\obj\x86\Debug\Test1.exe
+A:\Academic\Workspaces\C# Battle City\Test1\Test1\Test1\obj\x86\Debug\Test1.pdb
+E:\Academic\Workspaces\C# Battle City\Test1\Test1\Test1\obj\x86\Debug\Test1.exe
+E:\Academic\Workspaces\C# Battle City\Test1\Test1\Test1\obj\x86\Debug\Test1.pdb
+E:\Academic\Workspaces\C# Battle City\Test1\Test1\Test1\bin\Debug\Test1.exe
+E:\Academic\Workspaces\C# Battle City\Test1\Test1\Test1\bin\Debug\Test1.pdb
+E:\Academic\Workspaces\C# Battle City\Test1\Test1\Test1\obj\x86\Debug\Test1.csprojResolveAssemblyReference.cache
+E:\Academic\Workspaces\C# Battle City\Final Back up\11.59pm 1 August Version 2 Everyting Okay, but path\Test1\Test1\obj\x86\Debug\Test1.exe
+E:\Academic\Workspaces\C# Battle City\Final Back up\11.59pm 1 August Version 2 Everyting Okay, but path\Test1\Test1\obj\x86\Debug\Test1.pdb
+E:\Academic\Workspaces\C# Battle City\Final Back up\111.07pm 1 August Version 5 Trevell 100% okay shoots\Test1\Test1\Test1\obj\x86\Debug\Test1.exe
+E:\Academic\Workspaces\C# Battle City\Final Back up\111.07pm 1 August Version 5 Trevell 100% okay shoots\Test1\Test1\Test1\obj\x86\Debug\Test1.pdb
+E:\Academic\Workspaces\C# Battle City\Final Back up\111.07pm 1 August Version 5 Trevell 100% okay shoots\Test1\Test1\Test1\bin\Debug\Test1.exe
+E:\Academic\Workspaces\C# Battle City\Final Back up\111.07pm 1 August Version 5 Trevell 100% okay shoots\Test1\Test1\Test1\bin\Debug\Test1.pdb
+E:\Academic\Workspaces\C# Battle City\Final Back up\111.07pm 1 August Version 5 Trevell 100% okay shoots\Test1\Test1\Test1\obj\x86\Debug\Test1.csprojResolveAssemblyReference.cache
